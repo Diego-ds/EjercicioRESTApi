@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 17.0.1
+Implementation-Title: JPA_CardData
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: JPA_CardData
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/JPA_CardData
+Created-By: Maven Integration for Eclipse
+
